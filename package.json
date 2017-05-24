@@ -1,0 +1,25 @@
+{
+  "name": "en-site",
+  "version": "1.0.0",
+  "description": "English Site for SmartChains.eu",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smartchains/en-site.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smartchains/en-site/issues"
+  },
+  "homepage": "https://github.com/smartchains/en-site#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "serve-static": "^1.12.3"
+  }
+}
